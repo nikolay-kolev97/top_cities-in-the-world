@@ -1,1 +1,2 @@
 # top_cities-in-the-world
+That is project about top cities in the world. I think it is good option every viewer to see every beautifull city in the world with a little information and photos about the city. The design of the basic project is styler and elegant with italic font in the text and big HD images. There is in the header one menu with all cities and the viewer can click in some of them and to see about that. 
